@@ -1,5 +1,5 @@
 
-ickage com.ravi.cal.RaviCalculator;
+package com.ravi.cal.RaviCalculator;
 
 public class Calculator {
 
@@ -47,7 +47,7 @@ public class Calculator {
 	    System.out.println(output);
 	}
 	
-}mport java.util.Scanner;
+}import java.util.Scanner;
 
 public class Calculator  {
 	
@@ -107,7 +107,5 @@ public class Calculator  {
 	 
 
 }
-
-
 
 
